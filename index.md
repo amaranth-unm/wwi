@@ -1,15 +1,15 @@
 ---
-title: Object Collection Template
+title: World War I
 layout: base
 date: 2026-01-01
 summary: A starter site for collections built around things — artefacts, sites, specimens, places — where each object gets its own page and the directory assembles itself.
 
 hero:
-  image: /objects/bowl-with-dragons/images/cropped-theme-essay-header.jpg
-  alt: Detail of a glazed bowl with coiled dragon iconography
-  kicker: An object collection built with Xanthan
-  title: Your Collection Name Goes Here
-  text: Everything on this page is a placeholder. Three sample objects are included so you can see the shape of a finished collection before you replace them with your own.
+  image: /assets/images/backgrounds/wwi-ypres-header.jpg
+  alt: Stereograph of trenches at Ypres, produced by the Keystone View Company
+  kicker: A collection of artifacts and biographies
+  title: World War I
+  text: This website is as much a social and culture study of war as it is a military or political study.
   buttons:
     - label: Browse the Objects
       url: /objects
@@ -84,3 +84,5 @@ disturbing the collection underneath it.
   kicker="Where to go next"
   title="Start with the instructions, then delete these three."
 %}
+
+Header image credit: Stereograph of Trenches at Ypres, produced by the Keystone View Company, held by the [National WWI Museum](https://collections.theworldwar.org/argus/final/Portal/Default.aspx?component=AAAS&record=d1a50c22-42c2-4dcc-b05d-2e13e27d6ee8)
