@@ -1,33 +1,33 @@
 ---
-title: Head of the Buddha
+title: Hardtack Bread
 layout: base
 author: Your Name
 date: 2026-01-01
-header-image: images/buddha-head-front.jpg
-header-title: Head of the Buddha
+header-image: images/hardtack-bread.jpg
+header-title: Hardtack bread
 header-tier: banner
 header-position: center 38%
-thumbnail: images/buddha-head-front.jpg
-summary: A stucco head in which a South Asian subject is carved with Greek sculptural habits — a single object holding two traditions at once.
-geo: [33.7408, 72.7858]
-placename: Gandhara
-medium: Stucco with traces of paint
-object-date: 4th–5th century CE
-collection: The Metropolitan Museum of Art
+thumbnail: images/hardtack-bread.jpg
+summary: This type of bread was often in the rations for American soldiers during WWI.
+geo: [50.8629, 2.8758] 
+placename: Belgium
+medium: 
+object-date: ca. 1917-1919
+collection: The National WWI Museum
 tags:
-  - sculpture
-  - religion
+  - bread
+  - rations
 ---
 
-# Head of the Buddha
+# Hardtack Bread
 
-This is sample content. Replace it with your own object and keep the shape.
+This is sample content. Replace it with text about your object.
 
 {% include images/figure.html
-  image-path="images/buddha-head-front.jpg"
+  image-path="images/hardtack-bread.jpg"
   image-width="55%"
-  alt-text="Stucco head of the Buddha, with wavy hair and downcast eyes, on a museum mount"
-  caption="Head of the Buddha, Gandhara. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/38777), open access."
+  alt-text="A type of bread commonly found in soldier rations."
+  caption="A type of bread commonly found in soldier rations. [The National WWI Museum](https://collections.theworldwar.org/argus/final/Portal/Default.aspx?component=AAAS&record=23cfdb1e-e249-4ac8-be75-d86a6e8f925e), open access."
 %}
 
 Open an object page with what a reader needs before the argument starts: what

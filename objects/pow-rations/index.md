@@ -30,7 +30,27 @@ This is sample content. Replace it with text about your object.
   caption="POW rations. [The National WWI Museum](https://collections.theworldwar.org/argus/final/Portal/Default.aspx?component=AAAS&record=34e5ed84-43c5-4ff4-9a38-bd627e803e82), open access."
 %}
 
+Open an object page with what a reader needs before the argument starts: what
+the thing is, where it came from, what it is made of. The front matter above
+carries the catalogue facts, so they stay machine-readable and appear on the
+grid and the map without being retyped here.
 
+## Why this object
+
+Give the object a reason to be in the collection. One paragraph is enough. The
+useful question is not "what is this" — the front matter answered that — but
+"what does this let a reader see that another object would not."
+
+## Reading the object
+
+Describe what is actually visible, then what it implies. Footnotes work the
+normal way.[^1]
+
+[^1]: Author, *Title* (Publisher, Year), 00.
+
+{% include typography/pullquote.html text="A pull quote lifts a line out of the argument so a reader scanning the page still meets it." %}
+
+Add as many sections as the object needs. Delete the ones it does not.
 
 
 
