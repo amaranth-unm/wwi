@@ -1,50 +1,38 @@
 ---
-title: Cosmetic Jar with a Lid
+title: POW Rations
 layout: base
 author: Your Name
 date: 2026-01-01
-header-image: images/jar-3.jpeg
-header-title: Cosmetic Jar with a Lid
+header-image: images/pow-rations.jpg
+header-title: A Photograph of POW Rations
 header-tier: banner
 header-position: center
-thumbnail: images/cosmetic-jar-with-a-lid-2.jpeg
-summary: A small lidded jar in costly materials, made for a substance that has not survived — evidence of a trade in things that leave no trace.
-geo: [41.008, 28.980]
-placename: Constantinople
-medium: Glass with gilt mount
-object-date: 6th century CE
-collection: The Metropolitan Museum of Art
+thumbnail: images/pow-rations.jpg
+summary: A selection of food sent from the American Red Cross to POWs in Germany.
+geo: [46.9533, 7.4429]
+placename: Berne
+medium: 
+object-date: ca. 1917-1919
+collection: The National WWI Museum
 tags:
-  - glass
+  - nutrition
   - daily-life
 ---
 
-# Cosmetic Jar with a Lid
+# Rations for POWs
 
-This is sample content. Replace it with your own object and keep the shape.
+This is sample content. Replace it with text about your object.
 
-{% assign jar_images = "images/cosmetic-jar-with-a-lid.jpg,
-images/cosmetic-jar-2.jpeg,
-images/jar-3.jpeg" | split: ',' %}
-
-{% assign jar_captions = "Three views of the same jar.|
-The lid and its gilt mount.|
-The body in profile." | split: '|' %}
-
-{% include images/carousel.html
-  images=jar_images
-  captions=jar_captions
-  width="80%"
+{% include images/figure.html
+  image-path="images/pow-rations.jpg"
+  image-width="55%"
+  alt-text="A photograph of POW rations."
+  caption="POW rations. [The National WWI Museum](https://collections.theworldwar.org/argus/final/Portal/Default.aspx?component=AAAS&record=34e5ed84-43c5-4ff4-9a38-bd627e803e82), open access."
 %}
 
-An object photographed from several angles is a good use of the carousel. One
-object, several views, one component — see the [Component Library](../../docs/reference/component-library)
-for what else is available.
 
-## What the container implies
 
-Sometimes the interesting history is the thing the object held rather than the
-object itself. Say so plainly and let the reader follow.
+
 
 ---
 
