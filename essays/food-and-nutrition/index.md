@@ -1,31 +1,29 @@
 ---
-title: The Missing Contents
+title: Food and Nutrition During WWI
 layout: base
 author: Your Name
 date: 2026-01-01
 position: 2
-header-image: /objects/cosmetic-jar/images/jar-3.jpeg
-header-title: The Missing Contents
+header-image: /objects/pow-rations/images/pow-rations.jpg
+header-title: Food and Nutrition
 header-tier: banner
 header-position: center
-thumbnail: /objects/cosmetic-jar/images/cosmetic-jar-with-a-lid-2.jpeg
-summary: Paint that has worn away, a substance that has evaporated, a belief nobody records — three objects read for what is no longer in them.
+thumbnail: /objects/hardtack-bread/images/hardtack-bread.jpg
+summary: Battle conditions and the larger economic context greatly affected food and nutrition during WWI.
 tags:
-  - method
+  - food
   - daily-life
 
 objects:
-  - slug: cosmetic-jar
-    label: Constantinople, 6th century
-  - slug: buddha-head
-    label: Gandhara, 4th–5th century
-  - slug: bowl-with-dragons
-    label: Tabriz, 1210
+  - slug: pow-rations
+    label: POW rations
+  - slug: hardtack-bread
+    label: Hardtack bread
 ---
 
-# The Missing Contents
+# Food and Nutrition During WWI
 
-This is sample content. Replace it with your own argument and keep the shape.
+This is sample content. Replace it with your own argument and images from your research.
 
 {: .lede}
 Every object in this collection is incomplete, and the incompleteness is not
@@ -38,66 +36,37 @@ absence is itself evidence, and of what.
   items=page.objects
   collection="objects"
   variant="strip"
-  columns=3
+  columns=2
   kicker="Objects in this essay"
-  title="Three things read for what is not there."
+  title="These two objects reveal much about nutrition in WWI."
 %}
 
-## The substance that evaporated
+## Hardtack Bread
 
-The [Cosmetic Jar]({{ site.baseurl }}/objects/cosmetic-jar) is a container built
-to a standard its contents must have justified: worked glass, a gilt mount, a
-lid made to seal. Whatever it held was worth that expense and has not survived a
-day of it.
+The [hardtack bread]({{ site.baseurl }}/objects/hardtack-bread) that soldiers ate was not very tasty.
 
 {% include typography/pullquote.html
-  text="A trade in perishable goods leaves behind only the packaging. The jar is the receipt."
+  text="Soldiers in WWI received rations. This quote is in larger type and calls attention to something that also appears in the main text of the webpage."
 %}
 
-This is the ordinary asymmetry of material evidence. Ceramics, stone, and glass
-outlast textiles, pigments, oils, and food by orders of magnitude, so a
-collection assembled from what survives will always over-represent the durable.
-Saying so on the page is more honest than letting the silence pass for absence.
+Here is more text that you will replace.
 
-## The paint that wore off
+## POWs
 
-The [Head of the Buddha]({{ site.baseurl }}/objects/buddha-head) is catalogued
-as stucco *with traces of paint*, which is a museum's way of saying it was once
-a coloured object and is now a grey one. Every photograph of it — including the
-one on its own page — records a state its makers never saw.
+The [rations for POWs]({{ site.baseurl }}/objects/pow-rations) varied in quantity and quality.
 
 {% include images/figure.html
-  image-path="/objects/buddha-head/images/buddha-head-back.jpg"
+  image-path="/objects/pow-rations/images/pow-rations.jpg"
   image-width="45%"
-  alt-text="The reverse of the stucco head, showing the unfinished back"
-  caption="The back of the same head. [The Metropolitan Museum of Art](https://www.metmuseum.org/), open access."
+  alt-text="A photograph of POW rations."
+  caption="A photograph of POW rations. [National WWI Museum](https://collections.theworldwar.org/argus/final/Portal/Default.aspx?component=AAAS&record=34e5ed84-43c5-4ff4-9a38-bd627e803e82), open access."
 %}
 
-The unfinished reverse says something too: the head was made to be seen from the
-front, set into a wall or a niche. What is missing here is not only the paint
-but the building.
+Here is more sample text that you would replace.
 
-## The belief that left no text
+## This is a section heading.
 
-The dragons on the [Bowl with Dragons]({{ site.baseurl }}/objects/bowl-with-dragons)
-have been read as a device against eclipses. That reading rests on iconography
-and analogy rather than on anyone writing down what they thought the bowl was
-for. The object is firm evidence; the practice around it is an inference, and an
-essay is the right place to say which is which.
-
-## Writing your own
-
-Two habits worth keeping when an argument runs on absence:
-
-**Mark the join between evidence and inference.** The jar is a fact. What it
-held is a reasonable guess. Readers can follow an argument built on guesses
-provided the guesses are labelled.
-
-**Let an object serve more than one essay.** Two of the three above are also
-read in [Borrowed Forms]({{ site.baseurl }}/essays/borrowed-forms), and all
-three sit on the [map]({{ site.baseurl }}/map). Citing an object twice needs no
-coordinating — collections get their depth from things that carry more than one
-argument.
+This is another sentence in plain text that you will replace.
 
 ---
 

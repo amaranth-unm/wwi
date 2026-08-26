@@ -58,24 +58,26 @@ At the very top of `index.md`, you'll see something like:
 
 ```yaml
 ---
-title: Coal
+title: Food and Nutrition During WWI
 layout: base
 author: Your Name
 date: 2026-01-01
-header-image: images/coal-breaker.jpg
-header-title: Coal
+position: 2
+header-image: /objects/pow-rations/images/pow-rations.jpg
+header-title: Food and Nutrition
 header-tier: banner
 header-position: center
-thumbnail: images/coal.jpg
-summary: A collection of raw coal. 
-geo: [47.4865, 102.4974]
-placename: Mongolia
-medium: 
-object-date: 2022
-collection: Wikimedia Commons
+thumbnail: /objects/hardtack-bread/images/hardtack-bread.jpg
+summary: Battle conditions and the larger economic context greatly affected food and nutrition during WWI.
 tags:
-  - coal
-  - energy
+  - food
+  - daily-life
+
+objects:
+  - slug: pow-rations
+    label: POW rations
+  - slug: hardtack-bread
+    label: Hardtack bread
 ---
 ```
 
@@ -84,9 +86,7 @@ tags:
 3. Change the `author` to to your name. 
 4. Once you have images, you can change `header-image` and `thumbnail`. You do not need to change the other header fields.
 5. For `summary` write a short sentence that will appear in the little card for the file.
-6. For each object file, go to Google Maps and right-click on a location to get its coordinates. Then replace the numbers in `geo`. Keep only four decimal places.
-7. Replace the `placename`.
-8. Add at least two keywords for your `tags`.
+6. Add at least two keywords for your `tags`.
 
 
 ### Add Your Content
