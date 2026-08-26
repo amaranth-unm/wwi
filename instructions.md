@@ -5,7 +5,7 @@ layout: base
 
 # Getting Started with Your Class Project Site
 
-**Welcome!** This page guides you through setting up your own project folder in the repository you have forked the WWI repository. 
+**Welcome!** This page guides you through setting up your own project folder in your personal repository that you have **forked** from the original WWI repository. 
 
 ## What You Have
 
@@ -13,6 +13,7 @@ Amaranth has already set up this template with:
 - A **homepage** that introduces the class project (`index.md`)
 - **Sample essay folders** that show what an essay looks like
 - An **essays folder** where you'll add your own essay
+- An **objects folder** where you'll add your own objects
 - All the styling and design already done for you
 
 ## Quick Start: Your First Steps
@@ -34,7 +35,7 @@ Your project needs its own folder. Here's how:
 
 1. In the sidebar of the Code Editor, click on the `essays/` folder
 2. Left-click to open the menu
-3. Right-click `coal/` and select **Copy**
+3. Right-click `food-and-nutrition/` and select **Copy**
 4. Right-click again on the `essays/` folder and select **Paste**
 5. Rename that folder using **kebab-case** (lowercase with hypens, no spaces)
    - ✅ Good examples: `great-fermentation-debate`, `pigeon-conspiracy`, `hot-dog-sandwich`
@@ -106,7 +107,7 @@ Below the `---` lines, replace the sample content with your own writing, analysi
   width="40%"
   caption="What a nice view"
   alt-text="Color photograph showing some hiking trails in a canyon of the Sandia foothills."
-  image-path="images/coal-1.jpg"
+  image-path="images/hardtack-bread-1.jpg"
 %}
 {%endraw%}
 ```
@@ -133,7 +134,7 @@ Below the `---` lines, replace the sample content with your own writing, analysi
 6. Click the `Commmit & Push` button
 7. You can watch the yellow circle spin in the Actions menu on your repository
 8. If you get a green check, you're good!
-9. If you get a red circle with an X, you must stop and investigate. Visit our [Troubleshooting page](https://amaranth.unm.edu/history-of-energy/docs/reference/troubleshooting.html) to help you figure out what to fix.
+9. If you get a red circle with an X, you must stop and investigate. Visit our [Troubleshooting page](amaranth-unm/wwi/instructions.md) to help you figure out what to fix.
 
 
 ### Using Markdown
@@ -156,7 +157,7 @@ You don't need to know HTML! Just use simple **markdown** formatting:
 - Bullet point 3
 ```
 
-**Tip:** Look at the sample pages in the `essays/` folder to see examples of markdown you can copy!
+**Tip:** Look at the sample pages in the `essays/` folder and `objects/` folder to see examples of markdown you can copy!
 
 
 ## Need Help?
@@ -184,15 +185,6 @@ For more advanced features:
 - Browse the `/docs/` folder in your repository
 - Visit [xanthan-web.github.io/xanthan/docs/](https://xanthan-web.github.io/xanthan/docs/)
 
-
-## When You're Ready to Clean Up
-
-Once you understand how to edit your site and you're happy with your project:
-
-1. **Delete this file** (`instructions.md`)
-   - Right-click it in the code editor and select "Delete"
-2. **Remove it from navigation** (if your instructor set that up)
-3. Keep your project folder and start adding your real content!
 
 
 ---

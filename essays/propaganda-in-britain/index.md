@@ -32,7 +32,7 @@ This is another sentence in plain text that you will replace.
 
 ## Writing your own
 
-An essay is a folder under `essays/` with an `index.md` in it. The two habits worth keeping:
+This essay is in a folder under `essays/` with an `index.md` in it. The two habits worth keeping:
 
 **Name the objects you are arguing from.** Link them in the prose, and list them
 in the `objects:` block in this page's front matter so the strip above builds
