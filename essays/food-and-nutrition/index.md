@@ -57,7 +57,7 @@ The [rations for POWs]({{ site.baseurl }}/objects/pow-rations) varied in quantit
 
 {% include images/figure.html
   image-path="/objects/pow-rations/images/pow-rations.jpg"
-  image-width="45%"
+  image-width="100%"
   alt-text="A photograph of POW rations."
   caption="A photograph of POW rations. [National WWI Museum](https://collections.theworldwar.org/argus/final/Portal/Default.aspx?component=AAAS&record=34e5ed84-43c5-4ff4-9a38-bd627e803e82), open access."
 %}
