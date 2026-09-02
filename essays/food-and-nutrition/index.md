@@ -4,7 +4,7 @@ layout: base
 author: Your Name
 date: 2026-01-01
 position: 2
-header-image: /objects/pow-rations/images/pow-rations.jpg
+header-image: /essays/food-and-nutrition/images/maconochie-tin-resized.jpg
 header-title: Food and Nutrition
 header-tier: banner
 header-position: center
