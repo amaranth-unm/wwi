@@ -47,11 +47,11 @@ The war also affected attitudes toward food consumption on the home front.
 
 {%
 include scrollybox/bg.html
-above-box-space="50vh"
-below-box-space="50vh"
-height="100vh"
+above-box-space="100vh"
+below-box-space="100vh"
+height="250vh"
 image-path="/essays/food-and-nutrition/images/us-food-admin.jpg"
-box-align="right"
+box-align="center"
 box-content="
 ### The U.S. Food Administration agency
 On the home front, a government agency called the U.S. Food Administration produced posters and other documents to help conserve needed food supplies for the troops in Europe."
