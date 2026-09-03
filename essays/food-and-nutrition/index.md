@@ -49,7 +49,7 @@ The war also affected attitudes toward food consumption on the home front.
 include scrollybox/bg.html
 above-box-space="100vh"
 below-box-space="100vh"
-height="500vh"
+height="250vh"
 image-path="/essays/food-and-nutrition/images/us-food-admin.jpg"
 box-align="center"
 box-content="
