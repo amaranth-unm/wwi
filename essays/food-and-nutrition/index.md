@@ -41,6 +41,25 @@ This is sample content. Replace it with your own argument and images from your r
   title="These two objects reveal much about nutrition in WWI."
 %}
 
+## Attitudes Toward Food Consumption
+
+The war also affected attitudes toward food consumption on the home front.
+
+{%
+include scrollybox/bg.html
+above-box-space="50vh"
+below-box-space="50vh"
+height="100vh"
+image-path="/essays/food-and-nutrition/images/us-food-admin.jpg"
+box-align="right"
+box-content="
+### The U.S. Food Administration agency
+On the home front, a government agency called the U.S. Food Administration produced posters and other documents to help conserve needed food supplies for the troops in Europe."
+%}
+
+
+
+
 ## Hardtack Bread
 
 The [hardtack bread]({{ site.baseurl }}/objects/hardtack-bread) that soldiers ate was not very tasty.
@@ -55,12 +74,17 @@ Here is more text that you will replace.
 
 The [rations for POWs]({{ site.baseurl }}/objects/pow-rations) varied in quantity and quality.
 
-{% include images/figure.html
+
+{% include images/figure-wrap.html
   image-path="/objects/pow-rations/images/pow-rations.jpg"
-  image-width="100%"
-  alt-text="A photograph of POW rations."
   caption="A photograph of POW rations. [National WWI Museum](https://collections.theworldwar.org/argus/final/Portal/Default.aspx?component=AAAS&record=34e5ed84-43c5-4ff4-9a38-bd627e803e82), open access."
+  alt-text="A photograph of POW rations."
+  image-position="right"
+  image-width="45%"
+  text="The text you put here sits beside the image, not below it. Good for introductory paragraphs, a key argument tied to a specific image, or whenever the visual and the words need to be read together. Content that follows the include starts at full width below both columns."
 %}
+
+
 
 Here is more sample text that you would replace.
 
