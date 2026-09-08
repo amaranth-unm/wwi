@@ -136,6 +136,27 @@ Below the `---` lines, replace the sample content with your own writing, analysi
 8. If you get a green check, you're good!
 9. If you get a red circle with an X, you must stop and investigate. Visit our [Troubleshooting page](amaranth-unm/wwi/instructions.md) to help you figure out what to fix.
 
+The flow chart icon looks like this: 
+
+{% include images/figure.html
+  image-path="images/flowchart.png"
+  image-position="right"
+  image-width="100%"
+  alt-text="Screenshot of the flow chart icon"
+
+
+%}
+
+Here is where you enter your message: 
+
+{% include images/figure.html
+  image-path="images/make-edit.png"
+  image-position="right"
+  image-width="100%"
+  alt-text="Screenshot of the place to enter a message"
+
+
+%}
 
 ### Using Markdown
 
