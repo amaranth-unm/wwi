@@ -4,11 +4,11 @@ layout: base
 author: Your Name
 date: 2026-01-01
 position: 2
-header-image: /essays/food-and-nutrition/images/maconochie-tin-resized.jpg
+header-image: /images/maconochie-tin-resized.jpg
 header-title: Food and Nutrition
 header-tier: banner
 header-position: center
-thumbnail: /objects/hardtack-bread/images/hardtack-bread.jpg
+thumbnail: /images/hardtack-bread.jpg
 summary: Battle conditions and the larger economic context greatly affected food and nutrition during WWI.
 tags:
   - food
@@ -50,7 +50,7 @@ include scrollybox/bg.html
 above-box-space="100vh"
 below-box-space="100vh"
 height="250vh"
-image-path="/essays/food-and-nutrition/images/us-food-admin.jpg"
+image-path="/images/us-food-admin.jpg"
 box-align="center"
 box-content="
 ### The U.S. Food Administration agency
@@ -76,7 +76,7 @@ The [rations for POWs]({{ site.baseurl }}/objects/pow-rations) varied in quantit
 
 
 {% include images/figure-wrap.html
-  image-path="/objects/pow-rations/images/pow-rations.jpg"
+  image-path="/images/pow-rations.jpg"
   caption="A photograph of POW rations. [National WWI Museum](https://collections.theworldwar.org/argus/final/Portal/Default.aspx?component=AAAS&record=34e5ed84-43c5-4ff4-9a38-bd627e803e82), open access."
   alt-text="A photograph of POW rations."
   image-position="right"
