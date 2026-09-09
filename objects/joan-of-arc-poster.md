@@ -3,11 +3,11 @@ title: Joan of Arc Poster
 layout: base
 author: Your Name
 date: 2026-01-01
-header-image: images/joan-poster.jpg
+header-image: /images/joan-poster.jpg
 header-title: Propaganda Poster
 header-tier: banner
 header-position: center
-thumbnail: images/joan-poster.jpg
+thumbnail: /images/joan-poster.jpg
 summary: This propaganda poster was meant to inspire women in Britain.
 geo: [51.5092, -0.1125] 
 placename: London, England
@@ -24,7 +24,7 @@ tags:
 This is sample content. Replace it with your own object and keep the shape.
 
 {% include images/figure-wrap.html
-  image-path="images/joan-poster.jpg"
+  image-path="/images/joan-poster.jpg"
   image-position="right"
   image-width="42%"
   alt-text="A propaganda poster from Great Britain using the exmaple of Joan of Arc."

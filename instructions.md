@@ -29,25 +29,26 @@ The easiest way to edit your site is using GitHub's built-in code editor. **No n
 3. You're now ready to edit!
 
 
-### Step 2: Create Your Essay Folder
+### Step 2: Create Your Essay File
 
-Your project needs its own folder. Here's how:
+Your essay needs its own file. Here's how:
 
 1. In the sidebar of the Code Editor, click on the `essays/` folder
 2. Left-click to open the menu
-3. Right-click `food-and-nutrition/` and select **Copy**
+3. Right-click `food-and-nutrition.md` and select **Copy**
 4. Right-click again on the `essays/` folder and select **Paste**
-5. Rename that folder using **kebab-case** (lowercase with hypens, no spaces)
-   - ✅ Good examples: `great-fermentation-debate`, `pigeon-conspiracy`, `hot-dog-sandwich`
-   - ❌ Bad examples: `Great Fermentation Debate` (spaces), `GreatFermentationDebate` (not uncapitalized, no hyphens)
-6. The new folder name is saved after you click off of it or hit enter
+5. Rename that file using **kebab-case** (lowercase with hypens, no spaces)
+   - ✅ Good examples: `great-fermentation-debate.md`, `pigeon-conspiracy.md`, `hot-dog-sandwich.md`
+   - ❌ Bad examples: `Great Fermentation Debate.md` (spaces), `GreatFermentationDebate.m,d` (not uncapitalized, no hyphens)
+6. The new file name is saved after you click off of it or hit enter
 
 **What your folder structure will look like:**
 ```
 essays/
-├── your-essay-title/
-│   ├── images/           (create this next)
-│   └── index.md          (create this next)
+├── your-essay-title.md
+├── food-and-nutrition.md
+├── index.md
+├── propaganda-in-britain.md
 ```
 
 
@@ -55,7 +56,7 @@ essays/
 
 ### Update the Front Matter (Top of Your File)
 
-At the very top of `index.md`, you'll see something like:
+At the very top of `your-essay-title.md`, you'll see something like:
 
 ```yaml
 ---
@@ -64,11 +65,11 @@ layout: base
 author: Your Name
 date: 2026-01-01
 position: 2
-header-image: /objects/pow-rations/images/pow-rations.jpg
+header-image: /images/pow-rations.jpg
 header-title: Food and Nutrition
 header-tier: banner
 header-position: center
-thumbnail: /objects/hardtack-bread/images/hardtack-bread.jpg
+thumbnail: /images/hardtack-bread.jpg
 summary: Battle conditions and the larger economic context greatly affected food and nutrition during WWI.
 tags:
   - food
@@ -97,8 +98,8 @@ Below the `---` lines, replace the sample content with your own writing, analysi
 
 ### Add Your Images
 
-1. In the code editor, drag image files from your computer into your `images/` folder
-2. Once uploaded, you can reference them in your `index.md` file by copy-pasting code such as in the following example:
+1. In the code editor, drag image files from your computer into the `images/` folder
+2. Once uploaded, you can reference them in your `your-essay-title.md` file by copy-pasting code such as in the following example:
 
 ```
 {%raw%}

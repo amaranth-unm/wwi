@@ -4,11 +4,11 @@ layout: base
 author: Your Name
 date: 2026-01-01
 position: 1
-header-image: /objects/joan-of-arc-poster/images/joan-poster.jpg
+header-image: /images/joan-poster.jpg
 header-title: Propaganda in Britain
 header-tier: banner
 header-position: center
-thumbnail: /objects/joan-of-arc-poster/images/joan-poster.jpg
+thumbnail: /images/joan-poster.jpg
 summary: A propaganda poster meant for a British audience that uses a French medieval icon as an example.
 tags:
   - iconography
