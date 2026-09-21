@@ -67,7 +67,58 @@ Hit the green "Create fork" button
 
 Congrats you now have your own unique fork off the main branch!
 
-### Step 3: Saving your specific URL 
+### Step 3: Deploy your Page
+
+Your next step is to deploy your page so that you can see it and its edits!
+
+Click on the gear "Settings" icon
+
+{% include images/figure.html
+  image-path="images/settings.PNG"
+  image-position="right"
+  image-width="100%"
+  alt-text="Screenshot of forking button on Github"
+
+
+%}
+
+Scroll down to the "Pages" section and select it
+
+{% include images/figure.html
+  image-path="images/pages.PNG"
+  image-position="right"
+  image-width="100%"
+  alt-text="Screenshot of forking button on Github"
+
+
+%}
+
+Find the "Branch" section, click on the drop-down menu, and change the selection from "None" to "main" 
+
+{% include images/figure.html
+  image-path="images/select-main.PNG"
+  image-position="right"
+  image-width="100%"
+  alt-text="Screenshot of forking button on Github"
+
+
+%}
+
+Select save and then navigate to the "Actions" tab at the top to watch your page build! 
+
+{% include images/figure.html
+  image-path="images/save-main.PNG"
+  image-position="right"
+  image-width="100%"
+  alt-text="Screenshot of forking button on Github"
+
+
+%}
+
+
+
+
+### Step 4: Saving your specific URL 
 
 You will now be able to view your specific forked repository, make sure you are viewing *your* repository instead of Amaranth's:
 
