@@ -51,7 +51,7 @@ essays/
 ├── propaganda-in-britain.md
 ```
 {% include images/figure.html
-  image-path="essay-folder.PNG"
+  image-path="images/essay-folder.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of a github repository"
