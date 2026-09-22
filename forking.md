@@ -17,7 +17,7 @@ permalink: forking
 3. Make sure you are on the Github site, not the site in itself. It will look like this: 
 
 {% include images/figure.html
-  image-path="images/gettingstarted1.PNG"
+  image-path="images/fork-repository.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of a github repository"
@@ -32,7 +32,7 @@ permalink: forking
 2. Click the fork button in the upper right area of the screen: 
 
 {% include images/figure.html
-  image-path="images/gettingstarted3.PNG"
+  image-path="images/fork-button.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of forking button on Github"
@@ -43,7 +43,7 @@ permalink: forking
 You will be taken to a screen that looks like this:
 
 {% include images/figure.html
-  image-path="images/gettingstarted2.PNG"
+  image-path="images/fork-screen.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of forking button on Github"
@@ -55,7 +55,7 @@ You will be taken to a screen that looks like this:
 Select the "Choose an owner" button and select your Github name
 
 {% include images/figure.html
-  image-path="images/gettingstarted4.PNG"
+  image-path="images/select-user.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of forking button on Github"
@@ -123,7 +123,7 @@ Select save and then navigate to the "Actions" tab at the top to watch your page
 You will now be able to view your specific forked repository, make sure you are viewing *your* repository instead of Amaranth's:
 
 {% include images/figure.html
-  image-path="images/gettingstarted5.PNG"
+  image-path="images/url.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of forking button on Github"
@@ -134,7 +134,7 @@ You will now be able to view your specific forked repository, make sure you are 
  Click on the gear icon on the right: 
 
 {% include images/figure.html
-  image-path="images/gettingstarted6.PNG"
+  image-path="images/gear-icon.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of forking button on Github"
@@ -145,7 +145,7 @@ You will now be able to view your specific forked repository, make sure you are 
 Click the checkmark next to "Use your Github Pages website" and hit the green "Save changes" button:
 
 {% include images/figure.html
-  image-path="images/gettingstarted7.PNG"
+  image-path="images/save-url.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of forking button on Github"
@@ -156,7 +156,7 @@ Click the checkmark next to "Use your Github Pages website" and hit the green "S
 You will now be able to see your unique URL for your forked repository: 
 
 {% include images/figure.html
-  image-path="images/gettingstarted8.PNG"
+  image-path="images/new-url.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of forking button on Github"
