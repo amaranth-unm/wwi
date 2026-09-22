@@ -50,6 +50,14 @@ essays/
 ├── index.md
 ├── propaganda-in-britain.md
 ```
+{% include images/figure.html
+  image-path="images/.PNG"
+  image-position="right"
+  image-width="100%"
+  alt-text="Screenshot of a github repository"
+
+
+%}
 
 
 ## Your First Edits
@@ -140,7 +148,7 @@ Below the `---` lines, replace the sample content with your own writing, analysi
 The flow chart icon looks like this: 
 
 {% include images/figure.html
-  image-path="images/flowchart.png"
+  image-path="images/flowchart.PNG"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of the flow chart icon"
@@ -151,7 +159,7 @@ The flow chart icon looks like this:
 Here is where you enter your message: 
 
 {% include images/figure.html
-  image-path="images/make-edit.png"
+  image-path="images/enter-change.png"
   image-position="right"
   image-width="100%"
   alt-text="Screenshot of the place to enter a message"
